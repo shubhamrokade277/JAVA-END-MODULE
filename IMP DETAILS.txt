@@ -1,0 +1,10 @@
+missionpvt1@gmail.com
+Aniket@123
+
+https://notes.fasscon.com/
+
+http://localhost:8080/swagger-ui/index.html#/
+
+I need a spring boot code for the above problem statement. I need modularize code.
+I need code along with packages like com.app, com.app.controller, com.cpp.dto, com.app.entities, com.app.exception, com.app.repository, com.app.service.
+Also give me with full code with getters and setters if required.
